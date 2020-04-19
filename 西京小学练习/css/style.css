@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    background-color: rgb(50, 50, 100);
+}
+
+.container{
+    margin: 0 auto;         /*居中*/
+    width: 1200px;
+}
+
+.header{
+    width: 1200px;
+    height: 300px;
+    margin-top: 10px;
+    background-image: url(/images/header.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.nav{
+    float: left;
+    background-color: #fff;
+}
+
+.nav li{
+    width: 200px;
+    list-style-type: none;
+    line-height: 50px;
+    text-align: center;
+}
+.nav img{
+    width: 150px;
+    padding-top: 20px;
+}
+
+.content{
+    background-color: #fff;
+    padding-left: 300px;
+    padding-top: 30px;
+    width: 900px;
+    padding-bottom: 30px;
+}
+
+.text{
+    text-indent: 2em;
+    line-height: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 800px;
+}
+
+.footer{
+    background-color: rgb(180, 170, 142);
+    height: 80px;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
