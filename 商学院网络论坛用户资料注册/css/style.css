@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+}
+.container{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 30px 70px;
+    border-radius: 50px;
+}
+
+img{
+    width: 100px;
+    display: block;
+    margin: 30px auto;
+}
+
+h2{
+    text-align: center;
+    color: rgb(60, 60, 255);
+}
+ul{
+    margin-top: 30px;
+    padding-left: 120px;
+    font-size: 15px;
+    color: #000;
+    line-height: 50px;
+    list-style: none;
+    width: 500px;
+}
+
+input{
+    margin-left: 15px;
+}
+
+ul button{
+
+    margin: 30px 25px;
+}
+
+.footer{
+    color: #898989;
+    font-size: 12px;
+    text-align: center;
+    margin: 25px auto;
+}
