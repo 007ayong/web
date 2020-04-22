@@ -63,11 +63,12 @@ ul button{
     .container{
         width: 210px;
         margin: 5px auto;
+        border-radius: 20px;
     }
     ul{
-        margin: 0px auto;
+        margin-left: 10px;
         padding: 0;
-        width: 100px;
+        width: 210px;
         line-height: 40px;
     }
     input{
